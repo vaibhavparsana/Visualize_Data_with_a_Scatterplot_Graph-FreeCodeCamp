@@ -1,0 +1,26 @@
+#title {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#container {
+    margin: auto;
+    text-align: center;
+}
+
+#tooltip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 2px;
+    font-size: 12x;
+    padding: 5px;
+    box-shadow: 1px 1px 10px;
+    border-radius: 2px;
+    background: white;
+}
